@@ -235,9 +235,9 @@ Follow the steps above and produce a histogram of the extreme sea levels in 2100
 :::
 
 ::: {.cell .markdown}
-#### Problem 3.2 (3 points)
+#### Problem 3.3 (5 points)
 
-Follow the steps above and produce a histogram of the extreme sea levels in 2100 relative to 2010.
+The current levee was heightened in 2010 to 2m above the 2010 mean sea level. Based on your analysis above, what is the probability that the levee will be overtopped in 2100 (remember that the reliability standard is 1%)?
 :::
 
 ::: {.cell .markdown}
