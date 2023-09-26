@@ -175,7 +175,7 @@ The best estimates for these parameters are:
 ::: {.cell .markdown}
 #### Problem 2.1 (5 points)
 
-Write a function `sea_level_model()` to implement the mathematical sea-level rise model described above. It should take in needed parameters and a vector of temperatures and return a vector of sea levels. To test your function, use the provided temperature series `historical_temps` (read in below) to compute the global mean sea level anomaly in 2022 (the last year of the dataset) with the parameter values above; you should get a value of approximately 43mm.
+Write a function `sea_level_model()` to implement the mathematical sea-level rise model described above. It should take in needed parameters and a vector of temperatures and return a vector of sea levels. To test your function, use the provided temperature series `historical_temps` (read in below) to compute the global mean sea level anomaly in 2022 (the last year of the dataset) with the parameter values above; you should get a value of approximately 40mm.
 
 :::
 
